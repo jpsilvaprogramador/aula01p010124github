@@ -3,3 +3,4 @@ Nova linha
 Linha modificada no ramo teste
 sistema informatizado de dados gerais com login e senha com autenticação segura.
 Com o intuito de agir nos pcs.
+Esse documento foi alterado no Github
